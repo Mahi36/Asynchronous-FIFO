@@ -1,5 +1,5 @@
 # Asynchronous-FIFO
-This is the course project done under VLSI Design Lab.
+This is the course project done under EE705-VLSI Design Lab at IIT-B.
 
 Info about the different modules used.
 
